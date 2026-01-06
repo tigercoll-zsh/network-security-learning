@@ -1,4 +1,27 @@
-# --- Practice artifacts / exports ---
+.env
+
+# local previews / outputs
+preview.html
+daily/images/generated_content_image.png
+daily/images/generated_image.png
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# OS
+Thumbs.db
+Desktop.ini# --- Practice artifacts / exports ---
 # Day009: exported certificates from PowerShell
 *.cer
 
