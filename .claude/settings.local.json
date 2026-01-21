@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l daily/Day*.md)"
+    ]
+  }
+}
