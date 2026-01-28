@@ -33,4 +33,18 @@ Desktop.ini
 
 # --- Claude Temp Files ---
 tmpclaude-*
-.claude/settings.local.json
+.claude/
+
+# --- Local only (not pushed to remote) ---
+AGENTS.md
+CHANGELOG.md
+change-remote.ps1
+debug_draft_local.html
+debug_draft_remote.html
+docs/
+git-push.ps1
+pandoc-3.8.3-windows-x86_64.msi
+scripts/
+setup-github-ssh.ps1
+skills/
+test_publish.py
