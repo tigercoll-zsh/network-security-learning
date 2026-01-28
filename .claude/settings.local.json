@@ -3,10 +3,16 @@
     "allow": [
       "Bash(wc -l daily/Day*.md)",
       "Bash(tree:*)",
+<<<<<<< HEAD
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(ls:*)",
       "Bash(git push:*)"
+=======
+      "Bash(claude mcp add context7 -- npx:*)",
+      "Bash(python scripts/update_md_section.py daily/Day022.md \"## 巩固练习（题与复盘）\" temp_exercises.md)",
+      "Bash(python scripts/update_md_section.py daily/Day022.md \"## 评估标准（达成判定）\" temp_assessment.md)"
+>>>>>>> origin/main
     ]
   }
 }
